@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ACCUEIL -->
+  <url>
+    <loc>https://formation-btp-59.fr/</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/hero-bg.jpg</image:loc>
+      <image:caption>Centre de formation professionnelle BTP certifié QUALIOPI dans le Nord (59).</image:caption>
+      <image:title>Hauteur Formation - Centre de formation BTP Nord 59</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/about.png</image:loc>
+      <image:caption>Équipe de formateurs spécialisés en travaux en hauteur et sécurité BTP.</image:caption>
+      <image:title>À propos de Hauteur Formation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/qualiopi.png</image:loc>
+      <image:caption>Certification QUALIOPI - Organisme de formation certifié qualité.</image:caption>
+      <image:title>Certification QUALIOPI Hauteur Formation</image:title>
+    </image:image>
+  </url>
+
+  <!-- NOS FORMATIONS -->
+  <url>
+    <loc>https://formation-btp-59.fr/centre-de-formation-btp.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation travaux en hauteur : port du harnais, échelles, toiture, cordes.</image:caption>
+      <image:title>Formations travaux en hauteur Nord 59</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formations sécurité et prévention en entreprise : SST, incendie, habilitation.</image:caption>
+      <image:title>Formations sécurité prévention Nord 59</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Formations CACES conduite d'engins : nacelles R486, chariots R489.</image:caption>
+      <image:title>Formations CACES Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://formation-btp-59.fr/contact.html</loc>
+    <lastmod>2026-02-06</lastmod>
+  </url>
+
+  <!-- DÉMARCHE QUALITÉ -->
+  <url>
+    <loc>https://formation-btp-59.fr/demarche-qualite.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/qualiopi.png</image:loc>
+      <image:caption>Certification QUALIOPI obtenue en 2020 par Hauteur Formation.</image:caption>
+      <image:title>Certification QUALIOPI centre de formation BTP</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/datadock.jpg</image:loc>
+      <image:caption>Référencement Datadock depuis 2018 - Organisme de formation éligible OPCO.</image:caption>
+      <image:title>Datadock organisme de formation référencé</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/qualite.jpg</image:loc>
+      <image:caption>Démarche qualité interne de Hauteur Formation : satisfaction, service, amélioration continue.</image:caption>
+      <image:title>Démarche qualité formation professionnelle</image:title>
+    </image:image>
+  </url>
+
+  <!-- MENTIONS LÉGALES -->
+  <url>
+    <loc>https://formation-btp-59.fr/mention-legale.html</loc>
+    <lastmod>2026-02-06</lastmod>
+  </url>
+
+  <!-- BLOG / ACTUALITÉS -->
+  <url>
+    <loc>https://formation-btp-59.fr/hauteur-et-formation-blog.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Articles et actualités sur les formations travaux en hauteur et sécurité BTP.</image:caption>
+      <image:title>Blog Hauteur Formation - Actualités formations BTP</image:title>
+    </image:image>
+  </url>
+
+  <!-- ============================== -->
+  <!-- CATÉGORIES FORMATIONS          -->
+  <!-- ============================== -->
+
+  <!-- Travaux en Hauteur -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-cordiste.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formations travaux en hauteur : harnais, échelles, toiture, cordes, échafaudages.</image:caption>
+      <image:title>Catégorie formations travaux en hauteur</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sécurité & Prévention -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-securite-prevention.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formations sécurité et prévention : SST, incendie, habilitation électrique.</image:caption>
+      <image:title>Catégorie formations sécurité prévention</image:title>
+    </image:image>
+  </url>
+
+  <!-- Industrie -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-industrie.html</loc>
+    <lastmod>2026-02-06</lastmod>
+  </url>
+
+  <!-- CACES -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-caces.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Formations CACES R486 nacelles et R489 chariots automoteurs.</image:caption>
+      <image:title>Formations CACES conduite d'engins BTP</image:title>
+    </image:image>
+  </url>
+
+  <!-- ============================== -->
+  <!-- DÉTAILS FORMATIONS             -->
+  <!-- ============================== -->
+
+  <!-- Travaux en Hauteur -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-utilisation-echelles.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation utilisation des échelles en toute sécurité - Réglementation et bonnes pratiques.</image:caption>
+      <image:title>Formation utilisation échelles Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-port-du-harnais.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation port du harnais antichute - Utilisation et vérification des EPI.</image:caption>
+      <image:title>Formation port du harnais Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-travaux-sur-toiture.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation travaux sur toiture - Sécurité et prévention des chutes en toiture.</image:caption>
+      <image:title>Formation travaux sur toiture Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-travaux-sur-cordes.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation travaux sur cordes - Techniques de progression et sécurité cordiste.</image:caption>
+      <image:title>Formation travaux sur cordes Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-evacuation-personne-suspendue.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation évacuation d'une personne suspendue dans son harnais après une chute.</image:caption>
+      <image:title>Formation évacuation personne suspendue Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-port-harnais-site.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation port du harnais sur site client - Formation pratique en conditions réelles.</image:caption>
+      <image:title>Formation port harnais sur site Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-echafaudage-fixe.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation montage démontage échafaudage fixe - Réception et utilisation en sécurité.</image:caption>
+      <image:title>Formation échafaudage fixe Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-echafaudage-roulant.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation montage et utilisation échafaudage roulant - Sécurité et réglementation.</image:caption>
+      <image:title>Formation échafaudage roulant Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-verificateur-epi.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation vérificateur EPI antichute - Contrôle périodique des équipements de protection.</image:caption>
+      <image:title>Formation vérificateur EPI Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sécurité & Prévention -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-habilitation-electrique.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation habilitation électrique - Prévention du risque électrique selon NF C18-510.</image:caption>
+      <image:title>Formation habilitation électrique Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-incendie-evacuation.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation incendie et évacuation - Manipulation extincteurs et procédures d'évacuation.</image:caption>
+      <image:title>Formation incendie évacuation Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-sauveteur-secouriste-du-travail.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation SST Sauveteur Secouriste du Travail - Gestes de premiers secours en entreprise.</image:caption>
+      <image:title>Formation SST sauveteur secouriste Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-sst-mac.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation SST MAC recyclage - Maintien et actualisation des compétences SST.</image:caption>
+      <image:title>Formation SST MAC recyclage Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-equipier-premiere-intervention.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation équipier de première intervention - Réagir face à un début d'incendie.</image:caption>
+      <image:title>Formation équipier première intervention Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <!-- Industrie -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-habilitation-electrique-h0-b0.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation habilitation électrique H0/B0 - Personnel non électricien travaillant en environnement électrique.</image:caption>
+      <image:title>Formation habilitation H0 B0 Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <!-- CACES -->
+  <url>
+    <loc>https://formation-btp-59.fr/formations/reforme-caces-2020.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Réforme CACES 2020 - Nouvelles recommandations et catégories de certification.</image:caption>
+      <image:title>Réforme CACES 2020 nouvelles catégories</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-caces-r486.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Formation CACES R486 PEMP nacelles - Catégories A, B et C, initial.</image:caption>
+      <image:title>Formation CACES R486 nacelles PEMP Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/recyclage-caces-r486.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Recyclage CACES R486 PEMP nacelles - Renouvellement certification tous les 5 ans.</image:caption>
+      <image:title>Recyclage CACES R486 nacelles Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/formations/formation-caces-r489.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>Formation CACES R489 chariots automoteurs - Conduite de chariots élévateurs en sécurité.</image:caption>
+      <image:title>Formation CACES R489 chariots automoteurs Nord 59</image:title>
+    </image:image>
+  </url>
+
+  <!-- ============================== -->
+  <!-- ARTICLES DE BLOG               -->
+  <!-- ============================== -->
+
+  <url>
+    <loc>https://formation-btp-59.fr/blog/formation-travaux-hauteur.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Formation travaux en hauteur : tout ce qu'il faut savoir sur les obligations et les formations disponibles.</image:caption>
+      <image:title>Article formation travaux en hauteur</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/blog/formation-securite-prevention.html</loc>
+    <lastmod>2025-09-28</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Sécurité et prévention en entreprise : les formations indispensables pour vos salariés.</image:caption>
+      <image:title>Article formations sécurité prévention entreprise</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/blog/caces-conduite-engins.html</loc>
+    <lastmod>2025-09-12</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/caces.jpg</image:loc>
+      <image:caption>CACES : tout savoir sur la conduite d'engins en sécurité et la réforme 2020.</image:caption>
+      <image:title>Article CACES conduite engins sécurité</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/blog/incendie-evacuation.html</loc>
+    <lastmod>2025-08-30</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/securite.jpg</image:loc>
+      <image:caption>Formation incendie et évacuation : protégez vos équipes avec les bons réflexes.</image:caption>
+      <image:title>Article formation incendie évacuation entreprise</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://formation-btp-59.fr/blog/epi-travaux-hauteur.html</loc>
+    <lastmod>2025-08-15</lastmod>
+    <image:image>
+      <image:loc>https://formation-btp-59.fr/images/formations/travaux-hauteur.jpg</image:loc>
+      <image:caption>Guide complet des EPI pour travaux en hauteur : harnais, longes, casques, connecteurs.</image:caption>
+      <image:title>Article EPI équipements protection travaux hauteur</image:title>
+    </image:image>
+  </url>
+
+</urlset>
