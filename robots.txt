@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://formation-btp-59.fr/sitemap.xml
